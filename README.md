@@ -8,4 +8,5 @@
 - 🤝 I’m looking to learn more about Frontend Development
 
  Connect with me : 
-Email: shivarengs@gmail.com LinkedIn: https://www.linkedin.com/in/meyyammai-renganathan-ab964037b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Email: shivarengs@gmail.com 
+LinkedIn: https://www.linkedin.com/in/meyyammai-renganathan-ab964037b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
